@@ -7,7 +7,7 @@ from datetime import datetime
 # ---------------------
 # 1. 基本配置
 # ---------------------
-BASE_DIR = ".\\test1"  # 修改为你的实际路径
+BASE_DIR = "./test1"  # 修改为你的实际路径
 CATEGORIES = ["flux", "sdxl", "sd3", "sd1.5"]
 TOTAL_ROUNDS = 10  # 固定10轮
 
